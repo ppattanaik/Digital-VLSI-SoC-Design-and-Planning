@@ -23,7 +23,7 @@ Zoomed in View
 #### Spice Extraction and post layout spice simulation
 ##### Netlist of Inverter used for the extraction and simulation
 ![vsdworkshop  Running  - Oracle VM VirtualBox 4_9_2024 1_29_39 PM](https://github.com/ppattanaik/Digital-VLSI-SoC-Design-and-Planning/assets/63561037/29ee8486-0010-4ee7-ba00-d5eeb53742df)
-##### Characterization
+##### Performing Transient Analysis
 ![vsdworkshop  Running  - Oracle VM VirtualBox 4_9_2024 1_25_54 PM](https://github.com/ppattanaik/Digital-VLSI-SoC-Design-and-Planning/assets/63561037/af6275a3-1c6b-4ea2-941b-e5b915de5c55)
 #### Plot of y vs time a
 ![vsdworkshop  Running  - Oracle VM VirtualBox 4_9_2024 3_25_13 PM](https://github.com/ppattanaik/Digital-VLSI-SoC-Design-and-Planning/assets/63561037/01e62d5d-6f1f-4488-b662-f7a4ee1f72b9)
