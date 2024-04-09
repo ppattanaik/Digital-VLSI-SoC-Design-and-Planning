@@ -1,5 +1,4 @@
 # Digital-VLSI-SoC-Design-and-Planning
-### This is a typical board diagram
 
 ### Getting Familiar to Open Source EDA tools
 #### Setting up OpenLANE
